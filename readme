@@ -1,0 +1,13 @@
+Jacob Drew
+CS 4760
+Project Six
+
+Version Control: https://github.com/jdrew00/4760-project6
+
+Description: process scheduling simulator
+
+How to run program:
+./master  [-t n] [-h]
+
+n number of slave processes to execute
+If n is over 18 it will be set to 18 for safety
